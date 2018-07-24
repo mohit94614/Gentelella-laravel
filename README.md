@@ -7,16 +7,16 @@ AdminBSB Material Design Template in Laravel 5.6
       git clone
     ```
 #Installation
-  ```sh
+    ```sh
     npm install
     composer update --prefer-source
      ```
 #Setup
-   ```sh
+    ```sh
     cp .env.example .env
     php artisan key:generate
      ```
 #Running
-   ```sh
+    ```sh
     php artisan serve
- ```
+    ```
