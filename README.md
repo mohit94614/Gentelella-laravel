@@ -5,9 +5,9 @@ AdminBSB Material Design Template in Laravel 5.6
 ###Installation
 
     #clone 
-    ```sh
-      git clone
-    ```
+     ```sh
+     git clone
+     ```
     
 #Installation
     ```sh
