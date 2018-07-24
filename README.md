@@ -12,6 +12,8 @@ AdminBSB Material Design Template in Laravel 5.6
 #Installation
     ```sh
     npm install
+    ```
+     ```sh
     composer update --prefer-source
      ```
      
